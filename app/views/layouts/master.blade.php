@@ -54,7 +54,7 @@ paceOptions = {
 
 <ul id="main-menu" class="sm sm-clean">
     <li><a href="home"><i class="fa fa-home"></i> ALNAQAA</a></li>
-    <li><a href="#"><i class="fa fa-bolt"></i> Pest Control</a>
+    <li><a href="#"><i class="fa fa-bolt"></i> Services</a>
         <ul>
             <li><a href="pest-control/homes">Homes</a></li>
             <li><a href="pest-control/commercial-properties">Commercial Properties</a></li>
@@ -87,6 +87,7 @@ paceOptions = {
 </ul>
 
 @yield('content');
+
 
 <footer class="row text-center">
     <div class="col-lg-4">
