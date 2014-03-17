@@ -54,7 +54,7 @@ paceOptions = {
 
 <ul id="main-menu" class="sm sm-clean">
     <li><a href="home"><i class="fa fa-home"></i> ALNAQAA</a></li>
-    <li><a href="#"><i class="fa fa-bolt"></i> Services</a>
+<!--     <li><a href="#"><i class="fa fa-bolt"></i> Services</a>
         <ul>
             <li><a href="pest-control/homes">Homes</a></li>
             <li><a href="pest-control/commercial-properties">Commercial Properties</a></li>
@@ -63,7 +63,7 @@ paceOptions = {
             <li><a href="pest-control/hotels-and-motels">Hotels and Motels</a></li>
             <li><a href="pest-control/government-departments">Government Departments</a></li>
         </ul>
-    </li>
+    </li> -->
     <li><a href="procedure"><i class="fa fa-bolt"></i> Our Procedure</a>
     <li><a href="identify-unknown-pest"><i class="fa fa-search-plus"></i> Identify a Pest</a>
         <!--     <ul>
