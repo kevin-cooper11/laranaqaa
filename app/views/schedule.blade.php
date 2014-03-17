@@ -4,7 +4,7 @@
 	<h1 class="text-center">Schedule a Visit</h1>
 	<form role="form">
 	    <div id="owl-example" class="owl-carousel">
-	        <div class="step1">
+	        <div class="masterstepchange">
 	            <h1>Step 1 / 4:</h1>
 	            <h2>Please choose your place invadors</h2>
 	            <div class="row">
@@ -43,11 +43,6 @@
 	            </div>
 	        </div>
 
-<<<<<<< HEAD
-
-
-@stop
-=======
 	        <div class="step2">
 	            <h1>Step 2 / 4:</h1>
 	            <h2>What do you want done?</h2>
@@ -138,5 +133,3 @@
 	    </div>
 	</form>
 </section>
-@stop
->>>>>>> schedule_page
