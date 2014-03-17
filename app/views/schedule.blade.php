@@ -4,7 +4,7 @@
 	<h1 class="text-center">Schedule a Visit</h1>
 	<form role="form">
 	    <div id="owl-example" class="owl-carousel">
-	        <div class="step1">
+	        <div class="scheduleupdatechange">
 	            <h1>Step 1 / 4:</h1>
 	            <h2>Please choose your place invadors</h2>
 	            <div class="row">
