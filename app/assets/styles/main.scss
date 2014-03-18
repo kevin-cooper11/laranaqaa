@@ -5,10 +5,18 @@ $icon-font-path: "../bower_components/bootstrap-sass/vendor/assets/fonts/bootstr
 /* Color Scheme */
 $dark-green: #415A0A;
 $light-green: #7FC41C;
+$base-heading-margin: 0;
 
 /* Resets */
 .container-full {
   padding: 0 50px 0;
+}
+
+#about h3 {
+  margin-left: .7em;
+}
+#about p {
+  margin-left: 2em;
 }
 
 /* Typograohy */
