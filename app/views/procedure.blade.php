@@ -58,7 +58,7 @@
         <div class="col-lg-3 text-center">
             <i class="hi icon fa fa-calendar fa-3x"></i>
             <p>Solve your pest problems by: </p>
-            <a href="#" class="btn btn-default btn-lg">Schedule a Visit</a>
+            <a href="schedule" class="btn btn-default btn-lg">Schedule a Visit</a>
         </div>
     </div><!-- /.row -->
 </div> <!-- /#next-steps -->

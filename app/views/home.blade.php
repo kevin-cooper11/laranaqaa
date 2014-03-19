@@ -12,7 +12,7 @@
     <div class="call-to-action animated fadeInUp">
         <p><i class="fa fa-phone"> Just Give us a Call: 00971509399881</i></p>
         <p>OR</p>
-        <a class="btn btn-lg"><i class="fa fa-calendar"></i> Schedule a Visit Online</a>
+        <a href="schedule" class="btn btn-lg"><i class="fa fa-calendar"></i> Schedule a Visit Online</a>
     </div>
     <div class="client-area-button">
         <button type="button" class="btn btn-lg btn-default">Client Area</button>

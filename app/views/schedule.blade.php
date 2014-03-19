@@ -48,15 +48,15 @@
 	            <h2>What do you want done?</h2>
 	            <div class="row">
 	                <div class="radio">
-	                    <input type="radio" name="toBeDone" id="toBeDone1" value="Home">
+	                    <input type="radio" name="toBeDone" id="toBeDone1" value="Pest Control">
 	                    <label for="toBeDone1">Pest Control</label>
 	                </div>
 	                <div class="radio">
-	                    <input type="radio" name="toBeDone" id="toBeDone1" value="Home">
+	                    <input type="radio" name="toBeDone" id="toBeDone2" value="Fumigation">
 	                    <label for="toBeDone1">Fumigation</label>
 	                </div>
 	                <div class="radio">
-	                    <input type="radio" name="toBeDone" id="toBeDone1" value="Home">
+	                    <input type="radio" name="toBeDone" id="toBeDone3" value="What's recommended">
 	                    <label for="toBeDone1">What's recommended</label>
 	                </div>
 	            </div>
