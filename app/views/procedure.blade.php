@@ -47,7 +47,6 @@
         </div>
     </div>
 </section>
-<hr>
 <div id="next-steps">
     <div class="row hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
         <div class="col-lg-3 col-lg-offset-3 text-center">

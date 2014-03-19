@@ -123,8 +123,12 @@ section {
   // margin-top: 40px;
 }
 
+#pests-guide {
+  min-height: 700px;
+}
+
 .clickable {
-  cursor: pointer;
+  cursor: pointer !important;
 }
 
 .hi-icon-wrap {
@@ -1167,7 +1171,7 @@ body .wizard-card-container {
   background-size: 100%;
   height: 500px;
   background-repeat: no-repeat;
-
+  background-position: 100%;
 }
 .step4 {
   background-image: url(../../images/pestcontrol2-600.jpg) !important;
@@ -1349,8 +1353,8 @@ body .iradio_line-grey.checked {
   height: 100%;
   border-radius: 50%;
   position: relative;
-  cursor: default;
   box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  cursor: pointer;
 }
 
 #pests .ch-thumb {

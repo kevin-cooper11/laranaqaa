@@ -340,5 +340,5 @@
             <a href="identify-unknown-pest" class="btn btn-default btn-lg">Identify an Unknown Pest</a>
         </div>
     </div><!-- /.row -->
-</div> <!-- /#next-steps -->
+</div><!-- /#next-steps -->
 @stop

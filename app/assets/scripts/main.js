@@ -334,37 +334,37 @@ $(document).ready(function() {
     /* pests-guide */
     // /getting forward to second step
     $('#pests li a').click(function(e){
-        e.preventDefault();
-        $('#pests').removeClass().addClass('animated fadeOutLeftBig');
-        var elementToShow = $(this).attr('href');
-        setTimeout(function(){
-            $('#pests').addClass('hide');
-            $(elementToShow).removeClass().addClass('animated fadeInRightBig');
-        }, 400);
+      e.preventDefault();
+      $('#pests').removeClass().addClass('animated bounceOutDown');
+      var elementToShow = $(this).attr('href');
+      setTimeout(function(){
+        $('#pests').addClass('hide');
+        $(elementToShow).removeClass().addClass('animated bounceInUp');
+      }, 400);
     });
 
     // Moving forward to third step
     $('a.details').click(function(e){
-        e.preventDefault();
-        var parent = $(this).parents().eq(5);
-        $(parent).removeClass().addClass('animated fadeOutLeftBig');
-        var elementToShow = $(this).attr('href');
-        setTimeout(function(){
-            $(parent).addClass('hide');
-            $(elementToShow).removeClass().addClass('animated fadeInRightBig');
-        }, 400);
+      e.preventDefault();
+      var parent = $(this).parents().eq(5);
+      $(parent).removeClass().addClass('animated bounceOutDown');
+      var elementToShow = $(this).attr('href');
+      setTimeout(function(){
+        $(parent).addClass('hide');
+        $(elementToShow).removeClass().addClass('animated bounceInUp');
+      }, 400);
     });
 
     // Getting back to previous step
     $('.back-button').click(function(e){
-        e.preventDefault();
-        var parent = $(this).parents().eq(2);
-        $(parent).removeClass().addClass('animated fadeOutRightBig');
-        var backToElement = $(this).attr('href');
-        setTimeout(function(){
-            $(parent).addClass('hide');
-            $(backToElement).removeClass().addClass('animated fadeInLeftBig');
-        }, 400);
+      e.preventDefault();
+      var parent = $(this).parents().eq(2);
+      $(parent).removeClass().addClass('animated bounceOutDown');
+      var backToElement = $(this).attr('href');
+      setTimeout(function(){
+        $(parent).addClass('hide');
+        $(backToElement).removeClass().addClass('animated bounceInUp');
+      }, 400);
     });
     /* /pests-guide */
 

@@ -86,8 +86,7 @@ paceOptions = {
     <li><a href="contact"><i class="fa fa-comment"></i> Contact us</a></li>
 </ul>
 
-@yield('content');
-
+@yield('content')
 
 <footer class="row text-center">
     <div class="col-lg-4">
