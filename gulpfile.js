@@ -38,7 +38,6 @@ var stylesToConcat = [
 ];
 
 var scriptsToConcat = [
-    scriptsSrc       + '/main.js',
     bower_components + '/jquery-icheck/icheck.js',
     bower_components + '/ubilabs-geocomplete/jquery.geocomplete.js',
     bower_components + '/responsive-nav/client/src/responsive-nav.js',
@@ -46,7 +45,8 @@ var scriptsToConcat = [
     bower_components + '/smartmenus/src/jquery.smartmenus.js',
     bower_components + '/owlcarousel/owl-carousel/owl.carousel.js',
     // bower_components + 'flowtype/flowtype.js',
-    bower_components + '/jquery-waypoints/waypoints.js'
+    bower_components + '/jquery-waypoints/waypoints.js',
+    scriptsSrc       + '/main.js'
 ];
 
 // Styles
